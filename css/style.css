@@ -687,9 +687,9 @@ button {
   font-size: 25px;
   color: white;
   opacity: 0.6;
-  -webkit-transition: 0.2s;
-  -o-transition: 0.2s;
-  transition: 0.2s;
+  -webkit-transition: 0.15s;
+  -o-transition: 0.15s;
+  transition: 0.15s;
 }
 
 .footer__phone-number:hover {
